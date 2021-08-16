@@ -1,4 +1,4 @@
-# number_guessing_game
+# Number guessing game!
 
 Simple number guessing game with score!
 
